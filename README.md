@@ -33,12 +33,4 @@ Notes:
 - Adjust schema/table names and file locations inside `processing.sql` to match your Snowflake environment.
 - If you prefer automation, run the SQL using SnowSQL or via a CI job that connects to Snowflake.
 
-## Next steps / suggestions
 
-- Add a small README section describing the table schema produced by `processing.sql`.
-- (Optional) Add a script to automatically stage & load `hotel_bookings_raw.csv`.
-- Share required Snowflake role / warehouse details for teammates.
-
-## Contact
-
-If you want me to expand the README with load scripts, SnowSQL commands, or a schema diagram, tell me which you'd prefer and I will add it.
